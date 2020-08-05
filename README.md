@@ -23,3 +23,4 @@ Would you like to get in contact with me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rmoreno-w)](https://www.linkedin.com/in/rmoreno-w)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-blueviolet?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/rmoreno.w/)](https://www.instagram.com/rmoreno.w/)
+[![Gmail Badge](https://img.shields.io/badge/-rmoreno.w@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rmoreno.w@gmail.com)](mailto:rmoreno.w@gmail.com)
