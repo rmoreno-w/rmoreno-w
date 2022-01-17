@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Rodrigo Moreno and I'm from Brazil (🇧🇷). I've recently started to work with tech and I'm loving it, there is so much to learn in so little time! I feel a little overwhelmed with so much to learn and yet at the same time so inspired! I plan to upload some of my personal projects here, so keep an eye! News to come 👀
+My name is Rodrigo Moreno and I'm from Brazil (🇧🇷). I've recently started to work with tech and I'm loving it, there is so much to learn in so little time! I feel a little overwhelmed with so much to learn and yet at the same time so inspired! I plan to upload some of my projects here, so keep an eye! News to come 👀 Currently I work with React, NextJS, Figma, Styled Components, Tailwind and some other tech stuff
 
-Kind of a nightowl 🌙 In my free time I used to play LoL but I'm kind of retired, now I mostly just watch streams and some tournaments. Another passion of mine is music, when I was younger I used to play the drums... these days I don't, but still I like to discover new songs (not just rock music). I have a dream (and somewhat of a goal) to live in Sweden in the near future, so in my spare time I'm also learning some Swedish 🇸🇪 Last but not least, I like to have a beer once in a while 🍺
+I am kind of a night owl 🌙 In my spare time I used to play LoL, but I'm kind of retired nowadays. To remember the old days, I watch streams and some tournaments. Another passion of mine is music! When I was younger I used to play the drums and... these days I don't, but still, I like to discover new songs (not just rock music). I have a dream (and somewhat of a goal) of living in a Scandinavian country in the near future, so in my spare time I'm also learning some Swedish 🇸🇪 and Norwegian 🇳🇴 Last but not least, I like to have a beer once in a while 🍺
 
 Would you like to get in contact with me?
 
