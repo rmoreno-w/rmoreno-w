@@ -1,34 +1,78 @@
-### Hi there 🧐
+<h1>Hi there 👋🏽 Rodrigo Moreno, Software Engineer from Brazil 🇧🇷</h1>
 
-<!--
-**rmoreno-w/rmoreno-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>About me</h2>
+A bit of a night owl 🌙 I love to learn a bit about a lot of things 🧐 In my free time I'm currently learning Norwegian 🇳🇴 and starting to learn French 🇫🇷 Fluent in English 🇺🇸
 
-Here are some ideas to get you started:
+<h2>Tech Stack</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="Javascript logo" />
+  
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="Typescript logo" />
+  
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
+  
+  <img width="12" />
 
-My name is Rodrigo Moreno and I'm from Brazil (🇧🇷). I've recently started to work with tech and I'm loving it, there is so much to learn in so little time! I feel a little overwhelmed with so much to learn and yet at the same time so inspired! I plan to upload some of my projects here, so keep an eye! News to come 👀 Currently I work with React, NextJS, Figma, Styled Components, Tailwind and some other tech stuff
+  <img src="https://static.cdnlogo.com/logos/a/51/angular.svg" height="40" alt="Angular logo" />
+  
+  <img width="12" />
+  
+  <img src="https://static.cdnlogo.com/logos/r/90/ruby.svg" width="40" alt="Ruby logo" />
+  
+  <img width="12" />
 
-I am kind of a night owl 🌙 In my spare time I used to play LoL, but I'm kind of retired nowadays. To remember the old days, I watch streams and some tournaments. Another passion of mine is music! When I was younger I used to play the drums and... these days I don't, but still, I like to discover new songs (not just rock music). I have a dream (and somewhat of a goal) of living in a Scandinavian country in the near future, so in my spare time I'm also learning some Swedish 🇸🇪 and Norwegian 🇳🇴 Last but not least, I like to have a beer once in a while 🍺
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/512px-Ruby_On_Rails_Logo.svg.png" width="80" alt="Rails logo" />
 
-Would you like to get in contact with me?
+  <img width="12" />
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rmoreno-w)](https://www.linkedin.com/in/rmoreno-w)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-blueviolet?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/rmoreno.w/)](https://www.instagram.com/rmoreno.w/)
-[![Gmail Badge](https://img.shields.io/badge/-rmoreno.w@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rmoreno.w@gmail.com)](mailto:rmoreno.w@gmail.com)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio_website-20232A?style=flat&logo=react&logoColor=61DAFB&link=https://rmoreno-w.com/)](https://rmoreno-w.com/)
+  <img src="https://static.cdnlogo.com/logos/n/80/next-js.svg" width="40" alt="Next logo" />
 
+  <img width="12" />
+
+  <img src="https://static.cdnlogo.com/logos/t/58/tailwind-css.svg" width="40" alt="Tailwind logo" />
+
+  <img width="12" />
+
+  <img src="https://static.cdnlogo.com/logos/m/6/manjaro.svg" width="40" alt="Manjaro logo" />
+
+  <img width="12" />
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png?20220905010122" width="40" alt="Git logo" />
+
+  <img width="12" />
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1024px-GitHub_Invertocat_Logo.svg.png" width="40" alt="Github logo" />
+</div>
+
+<h2>Contact</h2>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/rmoreno-w" target="_blank">
+    <img src="https://static.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="Linkedin Logo" height="40px" />
+  </a>
+  
+  <img width="12" />
+  
+  <a href="https://www.instagram.com/rmoreno.w/" target="_blank">
+    <img src="https://static.cdnlogo.com/logos/i/92/instagram.svg" alt="Instagram Logo" height="40px">
+  </a>
+
+  <img width="12" />
+
+  <a href="https://rmoreno-w.com/" target="_blank">
+    <img alt="Portfolio Logo" height="40px" src="https://vercel.com/api/v0/deployments/dpl_9uQKaeWv3Psr8peZdGHrmPzn7fVJ/favicon?project=portfolio-nextjs&readyState=READY&teamId=team_X3SdUuA9uCQD0nRBuGKUXbQq" />
+  </a>
+</div>
+
+<h2>Stats</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rmoreno-w&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=stars,prs,contribs" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rmoreno-w&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=stars&show=reviews,prs_merged&hide_rank=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmoreno-w&theme=algolia" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmoreno-w&theme=dracula" />
 </a>
